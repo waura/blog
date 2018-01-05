@@ -154,16 +154,10 @@ ServerからCentOSに入れ替えようと思うので、OSを入れる用のHDD
 
 ↓届いたパーツ
 
-[![IMG_20150408_201837](http://octworks.orz.hm/wordpress/wp-content/uploads/2015/04/IMG_20150408_201837-300x225.jpg){.alignnone
-.size-medium .wp-image-264 width="300"
-height="225"}](http://octworks.orz.hm/wordpress/wp-content/uploads/2015/04/IMG_20150408_201837.jpg)
-
+[![IMG_20150408_201837](./images/IMG_20150408_201837-1024x768.jpg)](./images/IMG_20150408_201837-1024x768.jpg)
  
-
  
 
 ↓セットアップ中のサーバー
 
-[![IMG_20150408_210434](http://octworks.orz.hm/wordpress/wp-content/uploads/2015/04/IMG_20150408_210434-300x225.jpg){.alignnone
-.size-medium .wp-image-265 width="300"
-height="225"}](http://octworks.orz.hm/wordpress/wp-content/uploads/2015/04/IMG_20150408_210434.jpg)
+[![IMG_20150408_210434](./images/IMG_20150408_210434-1024x768.jpg)](./images/IMG_20150408_210434-1024x768.jpg)
